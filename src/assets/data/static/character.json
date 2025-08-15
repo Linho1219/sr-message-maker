@@ -1,32 +1,4 @@
 {
-  "海瑟音": {
-    "name": "海瑟音",
-    "card": "https://act-upload.mihoyo.com/sr-wiki/2025/08/03/276833758/3d6ee29c4194f813879336b6752ba3d3_4224688238373671666.png?x-oss-process=image/quality,q_75/resize,s_280/format,webp",
-    "avatar": "https://patchwiki.biligame.com/images/sr/5/54/mukowg0x3h5ctho5ds5mmby4msrrhhf.png",
-    "type": "虚无",
-    "info": ""
-  },
-  "丹恒•腾荒": {
-    "name": "丹恒•腾荒",
-    "card": "https://act-upload.mihoyo.com/sr-wiki/2025/08/04/276833758/02f1e4ba8035880734f3d3924b0fa782_5255707069849135146.png?x-oss-process=image/quality,q_75/resize,s_280/format,webp",
-    "avatar": "https://patchwiki.biligame.com/images/sr/2/28/96lbtozg3f95jcjz3w3hrgmqdnq709k.png",
-    "type": "存护",
-    "info": ""
-  },
-  "长夜月": {
-    "name": "长夜月",
-    "card": "https://act-upload.mihoyo.com/sr-wiki/2025/08/04/276833758/5c46d8725fd05721b0d1bde4fc4a2c20_7167317426173527785.png?x-oss-process=image/quality,q_75/resize,s_280/format,webp",
-    "avatar": "https://patchwiki.biligame.com/images/sr/6/6c/qa8t3g4e1iyx0k8mc6gj6nmblljhgoj.png",
-    "type": "记忆",
-    "info": ""
-  },
-  "刻律德菈": {
-    "name": "刻律德菈",
-    "card": "https://act-upload.mihoyo.com/sr-wiki/2025/08/03/276833758/1ffa7992abc8095a0c4a4aa53ae8be84_7210121574750249952.png?x-oss-process=image/quality,q_75/resize,s_280/format,webp",
-    "avatar": "https://patchwiki.biligame.com/images/sr/c/ca/n4rihkvayctcshy7x77eyvyaahuohwq.png",
-    "type": "同谐",
-    "info": ""
-  },
   "白厄": {
     "name": "白厄",
     "card": "https://act-upload.mihoyo.com/sr-wiki/2025/07/23/276833758/ddefe6e3b181dac0df2b02fd4266addb_1339640577006852247.png?x-oss-process=image/quality,q_75/resize,s_280/format,webp",
